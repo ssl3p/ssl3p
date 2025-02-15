@@ -2,7 +2,7 @@
 
 - 🔭 I'm Lua **Engineer** since 5 years.
 - 🌱 I’m currently focusing on **learning always more**.
-- 🔩 **I'm currently working on** ***Nightlife FA***.
+- 🔩  **I'm currently working on** ***Nightlife FA***.
 
 <!---
 Moroback/Moroback is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
