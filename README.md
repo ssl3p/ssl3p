@@ -1,14 +1,14 @@
 # 👋 Bonjour, je m'appelle ssl3p
 
-J'ai 16 ans et je suis passionné par le codage !
+J'ai 16 ans et je suis passionné par le developpement !
 
-* 🔭 Je suis **Ingénieur Lua** depuis 6 ans
-* 🌱 Je me concentre actuellement sur **apprendre toujours plus**
-* 🔩 **Travail en cours :** ***BloumeCity V1***
+* 🔭 Je suis **Développeur Lua** depuis 6 ans
+* 🌱 Mon objectif est d'**apprendre toujours plus**
+* 🔩 **Projet en cours :** ***BloumeCity V1***
 
 ---
 
-## ⚡ Statistiques
+## ⚡ Statis
 
 ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=ssl3p\&show_icons=true\&theme=radical)
 ![Langages principaux](https://github-readme-stats.vercel.app/api/top-langs/?username=ssl3p\&layout=compact\&theme=radical)
@@ -17,9 +17,9 @@ J'ai 16 ans et je suis passionné par le codage !
 
 ## 🛠️ Compétences & Outils
 
-* **Langages :** Lua, JavaScript, Python
+* **Languages :** Lua, JavaScript, Python
 * **Frameworks / Plateformes :** Garry's Mod, FiveM, Bots Discord
-* **Autres :** Développement web, conception UI, Automatisation
+* **Autres :** Développement web, conception UI
 
 ---
 
