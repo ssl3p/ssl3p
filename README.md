@@ -25,9 +25,8 @@ I'm 16 years old and passionate about coding!
 
 ## 📫 Contact
 
-- Discord: `ssl3p#XXXX`  
-- Email: `tonemail@example.com`  
-- Portfolio / Projects: [GitHub Repositories](https://github.com/ssl3p)
+- Discord: `ssl3p`   
+- Portfolio / Projects: soon...
 
 
 <!---
