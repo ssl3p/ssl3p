@@ -1,35 +1,34 @@
-# 👋 Hello, my name is ssl3p
+# 👋 Bonjour, je m'appelle ssl3p
 
-I'm 16 years old and passionate about coding!  
+J'ai 16 ans et je suis passionné par le codage !
 
-- 🔭 I'm a Lua **Engineer** for 6 years  
-- 🌱 Currently focusing on **learning always more**  
-- 🔩 **Working on:** ***BloumeCity V1***  
-
----
-
-## ⚡ Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ssl3p&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssl3p&layout=compact&theme=radical)
+* 🔭 Je suis **Ingénieur Lua** depuis 6 ans
+* 🌱 Je me concentre actuellement sur **apprendre toujours plus**
+* 🔩 **Travail en cours :** ***BloumeCity V1***
 
 ---
 
-## 🛠️ Skills & Tools
+## ⚡ Statistiques
 
-- **Languages:** Lua, JavaScript, Python  
-- **Frameworks/Platforms:** Garry's Mod, FiveM, Discord Bots  
-- **Other:** Web development, UI design, Automation  
+![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=ssl3p\&show_icons=true\&theme=radical)
+![Langages principaux](https://github-readme-stats.vercel.app/api/top-langs/?username=ssl3p\&layout=compact\&theme=radical)
+
+---
+
+## 🛠️ Compétences & Outils
+
+* **Langages :** Lua, JavaScript, Python
+* **Frameworks / Plateformes :** Garry's Mod, FiveM, Bots Discord
+* **Autres :** Développement web, conception UI, Automatisation
 
 ---
 
 ## 📫 Contact
 
-- Discord: `ssl3p`   
-- Portfolio / Projects: soon...
-
+* Discord : `ssl3p`
+* Portfolio / Projets : soon...
 
 <!---
-Sleep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Sleep est un dépôt ✨ spécial ✨ car son `README.md` (ce fichier) apparaît sur votre profil GitHub.
+Vous pouvez cliquer sur le lien Aperçu pour voir vos modifications.
 --->
