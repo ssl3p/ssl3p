@@ -18,7 +18,7 @@ I'm 16 years old and passionate about coding!
 ## 🛠️ Skills & Tools
 
 - **Languages:** Lua, JavaScript, Python  
-- **Frameworks/Platforms:** FiveM, Roblox, Discord Bots  
+- **Frameworks/Platforms:** Garry's Mod, FiveM, Discord Bots  
 - **Other:** Web development, UI design, Automation  
 
 ---
