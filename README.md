@@ -26,7 +26,7 @@ J'ai 16 ans et je suis passionné par le developpement !
 ## 📫 Contact
 
 * Discord : `ssl3p`
-* Portfolio / Projets : soon...
+* Portfolio / Projets : [Portfolio](https://discord.gg/FJZK9fkwzz)
 
 <!---
 Sleep est un dépôt ✨ spécial ✨ car son `README.md` (ce fichier) apparaît sur votre profil GitHub.
